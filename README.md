@@ -4,3 +4,7 @@ Java based chat room. Support text message, video call, file transfer, FB messen
 <li>Server class: multicast_server
 <li>Client class: ChatWindowClient
 </ul>
+
+# Authors
+
+Ting-Hsuan Chao, Yu-Yang Huang, Po-Jen Lai
